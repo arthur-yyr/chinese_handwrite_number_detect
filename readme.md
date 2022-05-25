@@ -1,6 +1,8 @@
+- Please complete the project by yourself, DO NOT copy
 - The code is based on macOS
 - Environments:
   - Python: 3.8.9
   - tensorflow: 2.4.1
   - Keras: 2.4.3
   - matplotlib: 3.4.2
+- The accuracy is about 97%
